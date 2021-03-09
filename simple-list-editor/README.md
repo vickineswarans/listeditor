@@ -1,4 +1,4 @@
-# Simeple List Editor
+# Simple List Editor
 
 This simple-list-editor project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -11,7 +11,7 @@ Navigate to simple-list-editor directory, then run `yarn install` and then `yarn
 If I had more time, I would like to fix the following known issues:
 
 1. Firefox is not displaying the scrollbar as expected.
-2. When no data in the list, the scrollbar line between top and bottom of the buttons not touching the edge.
+2. When the scrollbar on the list is not active due to less options or no options, the scrollbar line between top and bottom of the buttons not touching the edge.
 
 ## To do
 
